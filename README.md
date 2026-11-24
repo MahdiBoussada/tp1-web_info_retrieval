@@ -2,7 +2,7 @@
 
 ## Repository Structure
 ```text
-Brahim Mehdi Boussada/
+tp1-web_info_retrieval/
 ├── README.md
 ├── requirements.txt
 ├── TP1_WEB_INFORMATION_RETRIEVAL_Brahim_Mehdi_Boussada.ipynb
